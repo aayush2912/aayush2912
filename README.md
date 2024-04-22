@@ -1,10 +1,3 @@
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Aayush Pradhan</h1>
 <h3 align="center">A passionate data scientist pursuing MS.</h3>
 
