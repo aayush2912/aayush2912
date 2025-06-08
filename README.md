@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aayush Pradhan</h1>
-<h3 align="center">A passionate data scientist pursuing MS.</h3>
+<h1 align="center">Hi 👋, I'm Aayush Manish Pradhan</h1>
+<h4>
+Versatile data science professional with an interdisciplinary foundation in Information Technology, Business Intelligence, and Advanced Analytics. Academic background includes a B.Tech in IT, an MBA in Business Intelligence, and an M.S. in Data Science from Rutgers University—enabling a strong fusion of technical execution and strategic insight. Professional experience spans consulting, engineering, and academia, including roles at Deloitte, ANG Infotech, and Rutgers University. Responsibilities have included developing ML models, managing large-scale data workflows, architecting cloud-based pipelines, and supporting graduate-level instruction in programming and analytics. <br>
+
+Areas of specialization include machine learning, deep learning, data engineering, and statistical modeling. Proficient in Python, SQL, R, and Java, with experience in libraries and frameworks such as Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, and SHAP. Skilled in natural language processing using spaCy, NLTK, BERT, and Sentence-BERT. Experienced in building scalable data pipelines using Apache Spark, Kafka, Airflow, and dbt. Strong understanding of cloud infrastructure across AWS (EC2, S3, RDS, Lambda), GCP (BigQuery, Dataproc, Cloud Storage), and Azure. Proficient in containerization and deployment using Docker, Kubernetes, Flask, FastAPI, and NGINX.
+
+Well-versed in data visualization and BI tools including Tableau, Power BI, Seaborn, and Matplotlib. Hands-on with relational and NoSQL databases such as PostgreSQL, MySQL, and MongoDB. Familiar with DevOps workflows, Terraform for infrastructure provisioning, and Redis for caching and session management. Combines a research-oriented mindset with practical engineering skills to develop robust, interpretable, and production-ready solutions. Passionate about delivering scalable systems and data products that drive meaningful business and user impact.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2912&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2912" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **ap2527@scarletmail.rutgers.edu**
+- 📫 How to reach me **aayushpradhan29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
